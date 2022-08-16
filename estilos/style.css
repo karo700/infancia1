@@ -1,0 +1,18 @@
+body{
+    background: url(../imagenes/photo-1563291074-2bf8677ac0e5.jpg);
+    background-size:cover; /* ocupar toda la paguina"tamaño de imagen"*/
+background-attachment:fixed ;/* fondo fijo  */
+}/* color de fondo (URL PARA AÑADIR UNA IMGEN DE FONDO)(..PARA BUSCAR CARPETA)  */
+
+
+.letra1 {
+    color: black;/* color de letra  */
+    font-size: 30 px;/* tamaño de letra */
+    font-family: 'Lobster', cursive;
+ /* fuente de letra */}
+
+
+.titulos1 {color:red;
+font-size: 50px;
+font-family: 'Lobster', cursive;
+}
